@@ -56,6 +56,7 @@ This ensured consistent formatting, better interpretability, and reduced missing
 ### 2. Descriptive Analysis (Power BI)
 
 The cleaned dataset was imported into Power BI for interactive visualization and time-series analysis. Line charts, state-level comparisons, and commodity-wise breakdowns were used to identify structural changes, long-term trends, and volatility patterns.
+Link to dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzdkOGFjYTQtYjY3OS00ZGE3LTk2NDItYjJjOGI2ZTdhNmVhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ### 3. Predictive Analysis (Python)
 Using maize prices as a case study SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous variables) was use for historical time series data. Accurate forecasting of food prices is crucial for agricultural planning, policy formulation, and food security decision-making. 
