@@ -109,13 +109,5 @@ From a policy standpoint, the results emphasize the importance of early interven
 ## Conclusion
 This analysis reveals that food prices in Nigeria have experienced sustained long-term growth, punctuated by periods of extreme volatility. Political cycles, macroeconomic shocks, and regional market differences play significant roles in shaping price behavior.
 
-The findings emphasize the importance of proactive planning, region-specific strategies, and improved storage and supply-chain infrastructure. By leveraging historical price patterns, households, businesses, and policymakers can better anticipate price shocks and reduce the impact of food inflation.
-
-Conclusion
-
-This project provides a comprehensive analysis of food price dynamics in Nigeria from 2007 to 2025, combining historical trend analysis with predictive modeling to better understand both past behavior and future risks. The findings confirm that food prices in Nigeria are not only on a long-term upward trajectory but are also highly sensitive to macroeconomic shocks, political cycles, and regional market conditions.
-
-Overall, this project emphasizes that food price inflation in Nigeria is a systemic challenge rather than a short-term anomaly. For businesses, the insights support more informed pricing, procurement, and inventory planning decisions. For policymakers, the results reinforce the need for proactive, data-driven interventions—such as market stabilization policies, improved supply chain infrastructure, and targeted social protection measures—to mitigate price volatility and strengthen national food security.
-
 By transforming raw food price data into actionable insights, this project demonstrates how data analytics and time-series forecasting can contribute meaningfully to economic planning, risk management, and policy formulation in developing economies
 
