@@ -16,8 +16,8 @@ Food price volatility remains a major economic and social challenge in Nigeria, 
 
 - What socio-economic factors may influence these fluctuations
 
-- What is the possible future food price 
-
+- What are the expected future trends in food prices?
+  
 This project addresses these gaps by exploring historical price patterns, identifying structural breaks in trends, and highlighting geographic and political influences on food prices.
 
 ## Dataset
