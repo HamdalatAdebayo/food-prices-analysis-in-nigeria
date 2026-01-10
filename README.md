@@ -1,5 +1,5 @@
 # Food Price in Nigeria (2007–2025)
-Analysis of food prices across different states in Nigeria showing trends over time and predicting what the future price could be.
+This project analyzes food price trends across different states in Nigeria, examining how prices have evolved over time and forecasting possible future price movements. The insights generated aim to support data-driven decision-making for businesses, policymakers, and other stakeholders concerned with food security, market stability, and economic planning.
 
 ## Overview
 This project analyzes food price trends in Nigeria from 2007 to 2025 and predict possible future prices using a dataset compiled by the World Bank Development Economics Data Group. 
@@ -45,7 +45,9 @@ The dataset was first imported into Excel for basic cleaning and transformation.
 
 - Renamed columns for clarity:
   adm1_name → state
+  
   adm2_name → local_govt
+  
   mkt_name → market_name
 
 - Converted numeric month values into textual month names
